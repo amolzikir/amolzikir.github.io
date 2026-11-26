@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#075b32">
+<title>যিকরা | ذِكْرَى</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:#063b25;color:#fff;font-family:system-ui,-apple-system,"Noto Sans Bengali",sans-serif}
+main{max-width:560px;text-align:center;padding:36px 28px;border:1px solid #c8a94b66;border-radius:28px;background:linear-gradient(145deg,#08713d,#032d1b);box-shadow:0 18px 60px #00190f80}
+h1{font-size:clamp(2rem,8vw,3.4rem);margin:0;color:#f3d77a}.arabic{font-size:1.8rem;margin:8px 0 22px;color:#ffe7a1}
+p{line-height:1.8;color:#e8f3eb}small{color:#b9d6c3}
+</style>
+</head>
+<body><main><h1>যিকরা</h1><div class="arabic" lang="ar" dir="rtl">ذِكْرَى</div><p>আল্লাহর স্মরণে হৃদয় ভরে, নেক আমলে জীবন গড়ে।</p><small>যিকরা অ্যাপের নিরাপদ সংযোগ ও Android App Links যাচাইয়ের অফিসিয়াল হোস্ট।</small></main></body>
+</html>
