@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zikra.app",
+      "sha256_cert_fingerprints": ["AD:5E:EF:1E:68:1E:AD:0A:4E:1E:22:55:70:C4:D7:6D:78:FD:D1:95:49:5A:63:0B:FD:D5:94:73:39:0C:96:A9"]
+    }
+  }
+]
